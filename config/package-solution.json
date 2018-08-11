@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "umar-spfx-another-hello-world-webpart-client-side-solution",
+    "id": "ce8ffdf5-c982-4586-ad1f-217140c7e206",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/umar-spfx-another-hello-world-webpart.sppkg"
+  }
+}

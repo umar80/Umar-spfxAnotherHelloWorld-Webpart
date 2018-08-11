@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "umar-spfx-another-hello-world-webpart",
+    "libraryId": "ce8ffdf5-c982-4586-ad1f-217140c7e206",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
